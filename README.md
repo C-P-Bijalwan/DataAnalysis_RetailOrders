@@ -1,1 +1,1 @@
-# Projects
+# It is an ETL based End to End Data Analysis Project where we Extracted data from Kaggle API , then performed cleaning and transformation using Pythona,Pandas and at the end loaded data into SQL Server.
